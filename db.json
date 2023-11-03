@@ -1,0 +1,80 @@
+{
+  "overheads": {
+    "id": 1,
+    "category": {
+      "Advertising": [
+        "Online",
+        " Social Media"
+      ],
+      "Utilities": [
+        "Water",
+        " Electricity",
+        " Sewerage",
+        " Gas"
+      ],
+      "Reporting": [
+        "Auditors Remuneration",
+        " Tax Agent Remuneration",
+        " Secretarial Remuneration",
+        " Bank Charges"
+      ],
+      "Communications": [
+        "Internet",
+        " Telephone",
+        " Software Subscriptions"
+      ],
+      "Repairs": [
+        "Building",
+        " Equipment",
+        " Motor Vehicle",
+        " IT Systems"
+      ],
+      "Materials": [
+        "Packaging",
+        " Cleaning",
+        " Small Value Materials (SVM) - under RM 1,000"
+      ],
+      "Depreciation": [
+        "Office Equipment",
+        " Kitchen Equipment",
+        " Dining Equipment",
+        " Motor Vehicle",
+        " IT Systems"
+      ],
+      "Logistics": [
+        "Motor Vehicle - Road Tax and Insurance",
+        " Toll Fares",
+        " Parking and Fines",
+        " Taxi Fares",
+        " Flights",
+        " Accommodation",
+        " Petrol",
+        " Postage"
+      ],
+      "Administration": [
+        "Business License",
+        " Business Insurance",
+        " Printing",
+        " Stationary",
+        " Reading Articles",
+        " Subscriptions",
+        " Donations",
+        " Laundry",
+        " Uniform",
+        " Sundry"
+      ],
+      "Rentals": [
+        "Building",
+        " Office Equipment",
+        " Kitchen Equipment",
+        " Motor Vehicle",
+        " IT Systems"
+      ],
+      "Payments": [
+        "Delivery Commissions",
+        " Bank Merchant Charges"
+      ]
+    },
+    "selectedCategory": []
+  }
+}
